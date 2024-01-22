@@ -1,4 +1,4 @@
-# Tugas_Organisasi-dan-Arsitektur-Data
+# Tugas_Organisasi-dan-Arsitektur-Komputer
 1. jelaskan perbedaan utama organisasi komputer dan arsitektur komputer?
    beri contohnya.
 
