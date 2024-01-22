@@ -24,6 +24,31 @@
 -register:sebagai penyimpanan internal bagi CPU.
 -CPU Interconnections:Sejumlah mekanisme komunikasi antara control unit,ALU dan register-register
  4.Gambarkan operasi-operasi komputer dan jelaskan masing-masing fungsi?
+ ![WhatsApp Image 2024-01-22 at 09 54 40](https://github.com/Raihangaming05/Tugas_Organisasi-dan-Arsitektur-Data/assets/152851590/ed8c74a7-f414-494d-9b10-4a41433f0905)
+ ![WhatsApp Image 2024-01-22 at 09 54 51](https://github.com/Raihangaming05/Tugas_Organisasi-dan-Arsitektur-Data/assets/152851590/b68b7288-06dd-44a4-80d1-b80074ecf65c)
+ ![WhatsApp Image 2024-01-22 at 09 55 06](https://github.com/Raihangaming05/Tugas_Organisasi-dan-Arsitektur-Data/assets/152851590/74095ded-029e-4a2d-b9e2-79e6f364c6cd)
+ ![WhatsApp Image 2024-01-22 at 09 55 15](https://github.com/Raihangaming05/Tugas_Organisasi-dan-Arsitektur-Data/assets/152851590/0dd5b4d1-4e0e-4386-bef7-2c34c1669723)
+ 1.  Fungsi Operasi pemindahan data (data movement) :
+
+
+-fungsi computer sebagai alat memindahkan data : dengan memindahkan data dari peripheral atau saluran komunikasi ke perangkat lainya.
+Contoh : keyboard ke screen, Jarak lebih jauh maka proses komunikasi data.
+ 2.  Fungsi operasi penyimpan data (data storage)
+
+
+
+Computer sebagai alat menyimpan data :
+Data di pindahkan dari lingkungan luar ke penyimpanan computer (baca) dan sebaliknya (tulis)
+Contoh : internet download ke disk/hardisk
+ 3.  Fungsi operasi pengolahan data (processing)
+     Pemrosesan data dari/ke penyimpanan data 
+ 4.  Fugsi computer sebagai pengolahan data, baik dari atau ke penyimpanan.
+     Contoh : updating bank statement
+
+
+
+
+   
   
   
      
