@@ -63,7 +63,7 @@
  3.  Fungsi operasi pengolahan data (processing)
      Pemrosesan data dari/ke penyimpanan data 
  
- 4.  Fugsi computer sebagai pengolahan data, baik dari atau ke penyimpanan.
+ 4.  Fungsi computer sebagai pengolahan data, baik dari atau ke penyimpanan.
      Contoh : updating bank statement
 
 
